@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "colorful-whispers",
+    "author": "Leyki, TerableCoder",
+    "description": "Customize the color of whispers to your own desire based on context.",
+    "options": {
+        "niceName": "Colorful Whispers",
+        "guiName": "Colorful Whispers",
+        "settingsVersion": 1,
+        "settingsFile": "settings.json",
+        "settingsMigrator": "lib/settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/Yasukii/tera-colorful-whispers-master/master/","https://raw.githubusercontent.com/Yasukii/tera-colorful-whispers-master/master/"]
+}

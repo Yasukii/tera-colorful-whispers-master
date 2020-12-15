@@ -1,0 +1,16 @@
+{
+    "files": {
+        "README.html": "ce77025fb6be09b8ce90c72eec483b148dc03e20c227dad3cb43875cbdf78d46",
+        "README.md": "2ab34d5627454f1206a02b39996ab7bc3c9bf49532043b2a7ebb1e4bcb420509",
+        "imgs/sample.png": "a087346799161bf08b7689a2df93bc7dbe9552d8eebcb6feca098041b152ed90",
+        "index.js": "ac7eac53761b4457e9af0349463e380a21650d3d435029ffaa4e875c1bbfc8aa",
+        "lib/settings_migrator.js": "5a4b0c5aafbd54f8441f4eecebfa735f67d07082c9a7f88805b3f86f9d843357",
+        "module.json": "0398f3b2bf296b0038fb99782215c4a59e2708bc772c63d0e62b393f2b8fbac8",
+        "settings.json": "63ed18d1563ee43cd6f43c757105d00fa533504964372d3a179989910bee5365"
+    },
+    "defs": {
+        "S_DELETE_FRIEND": 1,
+        "S_UPDATE_FRIEND_INFO": 2,
+        "S_WHISPER": 3
+    }
+}
